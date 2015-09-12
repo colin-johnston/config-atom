@@ -1,0 +1,27 @@
+"*":
+  "exception-reporting":
+    userId: "57da9ca2-b1c7-f899-d8a6-bfb8ecaa61ca"
+  welcome:
+    showOnStartup: false
+  core:
+    projectHome: "/Users/colinjohnston/workspace"
+    themes: [
+      "proton"
+      "proton-kai"
+    ]
+    disabledPackages: [
+      "atom-minifier"
+    ]
+  editor:
+    invisibles: {}
+    fontSize: 13
+    fontFamily: "source code pro"
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    preferredLineLength: 120
+  minifier:
+    minifyOnSave: true
+  "atom-beautify":
+    _analyticsUserId: "6c95fe64-8e35-4bec-882b-428ffe7878db"
+  linter: {}
+  react: {}
